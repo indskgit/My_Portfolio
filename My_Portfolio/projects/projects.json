@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Plant and Pest Disease Detection",
+    "desc": "Fully fledged android application design to detect the plant disease by using the plant leaf image. Built using Java, XML, SQLite, Firebase TensorFlow Android Studion.",
+    "image": "agroApp",
+    "category": "android",
+    "links": {
+      "view": "https://user-images.githubusercontent.com/94180760/216771359-54fd7a91-3cd9-4aae-9be5-bde6762ddc31.jpg",
+      "code": "https://github.com/indskgit/Plant_Disease_And_Plant_Identification"
+    }
+  },
+
+
+  {
+    "name": "ResumeGen",
+    "desc": "Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
+    "image": "resumegen",
+    "category": "HTML,CSS,JS",
+    "links": {
+      "view": "https://github.com/indskgit/Resume-Generator",
+      "code": "https://github.com/indskgit/Resume-Generator"
+    }
+  },
+  {
+    "name": "React-Projects",
+    "desc": "Full-Stack project Code Editor which is built on the React and NodeJs.",
+    "image": "reactprojects",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/Anand-Singh-techie/CodersArena",
+      "code": "https://github.com/Anand-Singh-techie/CodersArena"
+    }
+  },
+  {
+    "name": "JavaScript Projects Website",
+    "desc": "This website is specially build to Generate random password which will safe.",
+    "image": "jspro",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/indskgit/Password_Generator",
+      "code": "https://github.com/indskgit/Password_Generator"
+    }
+  }
+]
